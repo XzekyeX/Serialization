@@ -1,0 +1,2 @@
+javah -jni Serialization
+pause
